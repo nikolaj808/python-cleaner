@@ -1,0 +1,53 @@
+EXT_AUDIO_AND_MEDIA:
+.mp4
+.mp3
+.mov
+.avi
+.wpl
+.wav
+.png
+.jpg
+.jpeg
+.svg
+.gif
+
+EXT_DOCUMENTS:
+.docx
+.doc
+.pptx
+.ppt
+.txt
+.pdf
+.xlsx (Excel fil)
+
+EXT_PROGRAMS_AND_INSTALLERS:
+.exe
+.msi (Installer fil)
+.iso (Diskafbildningsfil)
+
+EXT_ZIPS:
+.zip
+.rar
+.7z
+
+EXT_MATH_AND_DESIGN:
+.vsdx (Visio fil)
+.mcdx (Mathcad)
+.m (Matlab)
+.ms14 (Multisim 14 designfil)
+
+EXT_APPLICATIONS:
+.py
+.cpp
+.c
+.js
+.css
+.jar
+.html
+.bat
+.sh
+
+EXT_GARBAGE:
+crdownload
+.vsix
+.lbr
